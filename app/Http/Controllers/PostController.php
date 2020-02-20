@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\TopPostResource;
 use App\Services\Posts;
 
 class PostController extends Controller
